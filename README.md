@@ -4,7 +4,10 @@ Hi 👋 My name is Maxim Serov
 Python Developer
 ----------------
 
-I've been learning Python for 5 years, and have 3 years of commercial development. I am experienced in creating: ✅ Animated websites on Django + Bootstrap 5 ✅ Flask REST API for microservices ✅ Django REST API ✅ Python Scripts ✅ Desktop Applications ✅ Telegram Bots ✅ Parsers of cryptoexchanges ✅ On-chain Data Analysis ✅ Screener of arbitrage opportunities between cryptoexchanges
+I've been learning Python for 5 years, and have 3 years of commercial development. I am experienced in creating: 
+✅ Animated websites on Django + Bootstrap 5 
+✅ Flask REST API for microservices 
+✅ Django REST API ✅ Python Scripts ✅ Desktop Applications ✅ Telegram Bots ✅ Parsers of cryptoexchanges ✅ On-chain Data Analysis ✅ Screener of arbitrage opportunities between cryptoexchanges
 
 * 🌍  I'm based in Dubai
 * 🖥️  See my portfolio at [maxser0v.github.io](http://maxser0v.github.io)
